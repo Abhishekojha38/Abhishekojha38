@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Abhishekojha38/Abhishekojha38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Abhishek Ojha
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 💻 Software / Embedded Systems Engineer  
+- 🐧 Working with **Linux, Embedded Systems, and Networking**
+- 🔧 Interested in **board bring-up, driver development, and system-level programming**
+- 🚀 Always learning and exploring new technologies 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Embedded Linux development  
+- Driver & kernel-level concepts  
+- Virtualization and emulation (QEMU)  
+
+## 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/abhishek-ojha-06394540](https://www.linkedin.com/in/abhishek-ojha-06394540/)
+
+---
+
+⭐️ Feel free to check out my repositories and projects!
+
+- 🔭 Currently building a QEMU PCIe device as a learning project (qemu-pci).
